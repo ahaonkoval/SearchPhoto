@@ -1,0 +1,18 @@
+﻿1>------ Перестроение всех файлов начато: проект: DBWorker, Конфигурация: Release Any CPU ------
+2>------ Перестроение всех файлов начато: проект: Photoshop, Конфигурация: Release Any CPU ------
+2>D:\develops\GitHub\PhotoSearch\Photoshop\BinaryReverseReader.cs(97,30,97,40): warning CS3021: "BinaryReverseReader.ReadUInt32()" не требуется атрибут CLSCompliant, так как сборка не имеет атрибута CLSCompliant.
+2>D:\develops\GitHub\PhotoSearch\Photoshop\BinaryReverseReader.cs(108,31,108,41): warning CS3021: "BinaryReverseReader.ReadUInt64()" не требуется атрибут CLSCompliant, так как сборка не имеет атрибута CLSCompliant.
+2>D:\develops\GitHub\PhotoSearch\Photoshop\BinaryReverseReader.cs(119,32,119,42): warning CS3021: "BinaryReverseReader.ReadUInt16()" не требуется атрибут CLSCompliant, так как сборка не имеет атрибута CLSCompliant.
+2>D:\develops\GitHub\PhotoSearch\Photoshop\BinaryReverseReader.cs(134,38,134,47): warning CS3021: "BinaryReverseReader.SwapBytes(byte*, int)" не требуется атрибут CLSCompliant, так как сборка не имеет атрибута CLSCompliant.
+2>D:\develops\GitHub\PhotoSearch\Photoshop\BinaryReverseReader.cs(203,30,203,35): warning CS3021: "BinaryReverseWriter.Write(ushort)" не требуется атрибут CLSCompliant, так как сборка не имеет атрибута CLSCompliant.
+2>D:\develops\GitHub\PhotoSearch\Photoshop\BinaryReverseReader.cs(216,30,216,35): warning CS3021: "BinaryReverseWriter.Write(uint)" не требуется атрибут CLSCompliant, так как сборка не имеет атрибута CLSCompliant.
+2>D:\develops\GitHub\PhotoSearch\Photoshop\BinaryReverseReader.cs(229,30,229,35): warning CS3021: "BinaryReverseWriter.Write(ulong)" не требуется атрибут CLSCompliant, так как сборка не имеет атрибута CLSCompliant.
+2>D:\develops\GitHub\PhotoSearch\Photoshop\BinaryReverseReader.cs(269,38,269,47): warning CS3021: "BinaryReverseWriter.SwapBytes(byte*, int)" не требуется атрибут CLSCompliant, так как сборка не имеет атрибута CLSCompliant.
+2>  Photoshop -> D:\develops\GitHub\PhotoSearch\Photoshop\bin\Release\Photoshop.dll
+1>D:\develops\GitHub\PhotoSearch\DBWorker\SQLiteBulkInsert.cs(141,25,141,26): warning CS0219: Переменной "m" присвоено значение, но оно ни разу не использовано.
+1>D:\develops\GitHub\PhotoSearch\DBWorker\SQLiteBulkInsert.cs(139,34,139,36): warning CS0168: Переменная "ex" объявлена, но ни разу не использована.
+1>  DBWorker -> D:\develops\GitHub\PhotoSearch\DBWorker\bin\Release\DBWorker.dll
+3>------ Перестроение всех файлов начато: проект: PhotoSearch, Конфигурация: Release Any CPU ------
+3>D:\develops\GitHub\PhotoSearch\PhotoSearch\Models\BW.cs(147,30,147,35): warning CS0168: Переменная "error" объявлена, но ни разу не использована.
+3>  PhotoSearch -> D:\develops\Release\PhotoSearch\PhotoSearch.exe
+========== Перестроение всех проектов: успешно: 3, с ошибками: 0, пропущено: 0 ==========
